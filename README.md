@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-  <html>
+ <html>
     <head>
       <p>Images made with </p><a href="https://lichess.org" target="_blank">Lichess</a>
     </head>
